@@ -1,6 +1,9 @@
 # blog_app
 
-A new Flutter project.
+![image](https://user-images.githubusercontent.com/90281681/135456742-72fc1507-1eb1-4222-b65b-e7ad2bb2ee36.png)
+
+![image](https://user-images.githubusercontent.com/90281681/135456871-7d7b8e34-7314-415e-ab1d-f9af8e5a938b.png)
+
 
 ## Getting Started
 
